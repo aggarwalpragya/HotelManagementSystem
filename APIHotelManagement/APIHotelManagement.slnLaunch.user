@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "APIHotelManagement\\APIHotelManagement.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\..\\..\\Downloads\\JWTMicroservice\\JWTMicroservice\\JWTMicroservice.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Email_notification\\Email_notification.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

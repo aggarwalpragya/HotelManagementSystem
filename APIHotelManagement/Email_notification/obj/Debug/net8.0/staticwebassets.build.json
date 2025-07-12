@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "gOEOVSlDTOFBAg5x4fdvKXC4J4yA8p1vUP4DkphZlLE=",
+  "Source": "Email_notification",
+  "BasePath": "_content/Email_notification",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
