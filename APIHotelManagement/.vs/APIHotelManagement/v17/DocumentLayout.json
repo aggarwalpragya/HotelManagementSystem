@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PRAGAGAR\\Desktop\\HMS_Project_New\\APIHotelManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8D4C0D-1D4F-4B14-AFBD-67F94596FDEC}|APIHotelManagement\\APIHotelManagement.csproj|c:\\users\\pragagar\\desktop\\hms_project_new\\apihotelmanagement\\apihotelmanagement\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8D4C0D-1D4F-4B14-AFBD-67F94596FDEC}|APIHotelManagement\\APIHotelManagement.csproj|solutionrelative:apihotelmanagement\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD9D94D-C495-4457-9FDC-765E6020AD84}|..\\..\\..\\Downloads\\JWTMicroservice\\JWTMicroservice\\JWTMicroservice.csproj|c:\\users\\pragagar\\downloads\\jwtmicroservice\\jwtmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{02c9407d-69f0-4910-b5c7-0dff86947e95}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\PRAGAGAR\\Desktop\\HMS_Project_New\\APIHotelManagement\\APIHotelManagement\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "APIHotelManagement\\Controllers\\ManagerController.cs",
+              "ToolTip": "C:\\Users\\PRAGAGAR\\Desktop\\HMS_Project_New\\APIHotelManagement\\APIHotelManagement\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "APIHotelManagement\\Controllers\\ManagerController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwF4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T17:11:50.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PRAGAGAR\\Downloads\\JWTMicroservice\\JWTMicroservice\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\JWTMicroservice\\JWTMicroservice\\Program.cs",
+              "ToolTip": "C:\\Users\\PRAGAGAR\\Downloads\\JWTMicroservice\\JWTMicroservice\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\JWTMicroservice\\JWTMicroservice\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:38:47.534Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
